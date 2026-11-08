@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Keeping Your AI Sharp v5.0"
+nav_order: 2
 ---
 
 # Keeping Your AI Sharp v5.0

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Prompt Directives Guide v8.3"
+nav_order: 3
 ---
 
 # Prompt Directives Guide v8.3

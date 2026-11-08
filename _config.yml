@@ -1,5 +1,12 @@
+remote_theme: carlosperate/jekyll-theme-rtd@v1.4.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
 title: AI Prompting Guides
 description: Practical techniques for getting better results from AI assistants
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-sitemap
+
+search_enabled: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+edit_on_github: false

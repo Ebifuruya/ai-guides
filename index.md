@@ -1,6 +1,7 @@
 ---
 layout: default
-title: AI Prompting Guides
+title: Home
+nav_order: 1
 ---
 
 # AI Prompting Guides
