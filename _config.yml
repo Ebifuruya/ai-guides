@@ -10,3 +10,4 @@ search_enabled: true
 sticky_navigation: true
 prev_next_buttons_location: bottom
 edit_on_github: false
+repo_url: false
