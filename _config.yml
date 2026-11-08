@@ -1,0 +1,5 @@
+title: AI Prompting Guides
+description: Practical techniques for getting better results from AI assistants
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
