@@ -20,6 +20,12 @@ Why AI answers lose quality over the course of a conversation — and ten techni
 
 A structured system for writing better LLM prompts using labeled directives (Goal, Role, Context, Task, Audience, Tone, Format, Constraints). Includes scoping rules, nesting conventions, and full worked examples.
 
+## The Prompts
+
+### [Research Paper Verification v1.3](research-paper-verification)
+
+A verification prompt that audits research papers for arithmetic errors, implausible extrapolations, and factual accuracy. Includes an input gate, flagged-fact resolution via cited source URLs, and a structured revision-proposal output.
+
 ---
 
-*Both guides work with Claude, ChatGPT, Gemini, and other major AI assistants.*
+*All guides and prompts work with Claude, ChatGPT, Gemini, and other major AI assistants.*
