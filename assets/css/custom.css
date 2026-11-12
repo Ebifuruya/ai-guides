@@ -1,14 +1,11 @@
 /* Code block wrapping fix */
 pre,
-.rst-content div[class^=highlight] pre {
+pre code,
+.rst-content div[class^=highlight] pre,
+.rst-content div[class^=highlight] pre code {
   white-space: pre-wrap;
   word-wrap: break-word;
   overflow-wrap: break-word;
-}
-
-/* Remove horizontal scroll on code block wrappers (wrapping handles overflow) */
-.rst-content div[class^=highlight] {
-  overflow-x: visible;
 }
 
 /* Table cell wrapping fix */
