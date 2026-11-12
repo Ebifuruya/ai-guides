@@ -4,3 +4,9 @@ pre,
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+/* Table cell wrapping fix */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+  white-space: normal;
+}
