@@ -1,0 +1,6 @@
+/* Code block wrapping fix */
+pre,
+.rst-content div[class^=highlight] pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
