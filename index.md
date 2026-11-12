@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# AI Prompting Guides
+# AI Prompts & Guides
 
 Practical, field-tested techniques for getting better results from AI assistants. No programming knowledge required.
 

@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-title: AI Prompting Guides
+title: AI Prompts & Guides
 description: Practical techniques for getting better results from AI assistants
 
 search_enabled: true
